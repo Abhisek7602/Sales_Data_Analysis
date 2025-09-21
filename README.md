@@ -2,7 +2,7 @@
 
 
 ## Brief Summary
-A data-driven analysis of heart disease risk factors using Python for data exploration, visualization.
+A data-driven analysis of sales data by using Python for data exploration, visualization.
 
 ---
 
@@ -90,5 +90,7 @@ The dataset includes the following attributes:
 
 ## Author and Contact
 **Author:** Abhisek Nayak 
+
 **Email:** nayakabhisek7602@gmail.com 
+
 **LinkedIn/GitHub:** [www.linkedin.com/in/abhisek-nayak-88054a362]
